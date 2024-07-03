@@ -42,3 +42,5 @@ This project is licensed under the MIT License (refer to LICENSE.md for details)
 Disclaimer:
 
 This project is provided for educational and demonstration purposes. While we strive for functionality and stability, limited support is available. Use at your own discretion.
+
+For ViciDial Installation and Support visit https://absolute-global.com
